@@ -1,5 +1,5 @@
 # AI-Shoots
-AI Shoots in Unity with A* search algorithm
+AI Shoots in Unity using A* search algorithm
 
 
 ![‏‏לכידה2](https://user-images.githubusercontent.com/57193257/160303388-2fdac1a6-d22e-423e-8a12-bac42c7415ca.PNG)
